@@ -4,7 +4,7 @@
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003.
 # Jan Morén <jan.moren@lucs.lu.se>, 2003.
 #
-# $Id: sv.po,v 1.205 2004/03/23 18:27:07 neo Exp $
+# $Id: sv.po,v 1.206 2004/03/25 07:35:42 tml Exp $
 #
 msgid ""
 msgstr ""
@@ -4901,7 +4901,7 @@ msgstr "Ogiltig bredd eller höjd. Båda måste vara positiva."
 
 #: app/gui/layers-menu.c:46
 msgid "/Te_xt Tool"
-msgstr "Te_xtverktyg"
+msgstr "/Te_xtverktyg"
 
 #: app/gui/layers-menu.c:51
 msgid "/_Edit Layer Attributes..."
