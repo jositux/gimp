@@ -4,7 +4,7 @@
 # Jan Morén <jan.moren@lucs.lu.se>, 2003.
 # Tomas Ögren <stric@ing.umu.se>, 2001.
 #
-# $Id: sv.po,v 1.73 2004/11/02 05:30:01 JanneM Exp $
+# $Id: sv.po,v 1.74 2004/11/14 23:58:04 scizzo Exp $
 #
 msgid ""
 msgstr ""
@@ -1160,7 +1160,7 @@ msgstr "Effektstorlek (bildpunkter)"
 
 #: plug-ins/script-fu/scripts/copy-visible.scm.h:1
 msgid "<Image>/Edit/Copy/Copy _Visible"
-msgstr "<Image>/Redigera/Kopiera _synligt"
+msgstr "<Image>/Redigera/Kopiera/Kopiera _synligt"
 
 #: plug-ins/script-fu/scripts/crystal-logo.scm.h:1
 msgid "<Toolbox>/Xtns/Script-Fu/Logos/Crystal..."
