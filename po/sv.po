@@ -4,14 +4,14 @@
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003.
 # Jan Morén <jan.moren@lucs.lu.se>, 2003.
 #
-# $Id: sv.po,v 1.200 2004/03/19 21:26:23 JanneM Exp $
+# $Id: sv.po,v 1.201 2004/03/19 22:26:01 neo Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gimp\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2004-03-20 06:20+0900\n"
-"PO-Revision-Date: 2004-03-20 06:25+0900\n"
+"PO-Revision-Date: 2004-03-19 23:25+0100\n"
 "Last-Translator: Jan Morén <jan.moren@lucs.lu.se>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -8571,6 +8571,7 @@ msgid "Confirm Text Editing"
 msgstr "Bekräfta texteditering"
 
 #: app/tools/gimptexttool.c:715
+#, fuzzy
 msgid ""
 "The layer you selected is a text layer but it has been modified using other "
 "tools. Editing the layer with the text tool will discard these "
