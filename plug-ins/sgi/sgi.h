@@ -22,8 +22,29 @@
  * Revision History:
  *
  *   $Log$
- *   Revision 1.1  1997/11/24 22:04:37  sopwith
- *   Initial revision
+ *   Revision 1.2  1998/03/25 02:17:34  yosh
+ *   * configure.in: corrected test for libXmu for some systems; added test for
+ *   difftime
+ *
+ *   * app/main.c: use glib ATEXIT macro
+ *
+ *   * app/text_tool.c: applied gimp-stric-980321-0 (text preview refresh)
+ *
+ *   * plug-ins/script-fu/script-fu-console.c: don't need to init gtkpreview stuff,
+ *   since we don't use them
+ *
+ *   * plug-ins/script-fu/*: many portability fixes
+ *
+ *   * plug-ins/pnm/pnm.c: sprintf portability patch
+ *
+ *   * plug-ins now #define RAND_MAX if needed
+ *
+ *   * plug-ins/sparkle/sparkle.c: applied gimp-joke-980322-1
+ *
+ *   -Yosh
+ *
+ *   Revision 1.1.1.1  1997/11/24 22:04:37  sopwith
+ *   Let's try this import one last time.
  *
  *   Revision 1.3  1997/11/18 03:04:29  nobody
  *   fixed ugly comment-bugs introduced by evil darkwing
@@ -51,6 +72,8 @@
 
 #  include <stdio.h>
 #  include <stdlib.h>
+#  include <unistd.h>
+#  include <string.h>
 
 #  ifdef __cplusplus
 extern "C" {
