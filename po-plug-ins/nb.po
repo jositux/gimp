@@ -11179,7 +11179,7 @@ msgstr "Tegner labyrint..."
 msgid "Drawing Maze..."
 msgstr "Tegner labyrint..."
 
-#. $Id: no.po,v 1.105 2004/11/07 16:50:33 sigurd Exp $
+#. $Id: nb.po,v 1.2 2004/11/07 16:50:33 sigurd Exp $
 #: plug-ins/maze/maze.h:2
 #, fuzzy
 msgid "Maze"
