@@ -1,4 +1,4 @@
-#!/usr/libexec/gimptcl
+#!/usr/X11R6//libexec/gimptcl
 # -*-Mode: Tcl;-*-
 ##################################################
 # file: pdb-help.tcl
@@ -25,7 +25,7 @@
 # (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF
 # THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #
-# $Id: pdb_help,v 1.1 1997/11/24 22:05:16 sopwith Exp $
+# $Id: pdb_help,v 1.2 1997/12/01 19:49:08 erich Exp $
 #
 
 proc gimptcl_query {} {
@@ -272,4 +272,8 @@ proc pdb-help-init {} {
     pack .about .ctl
 
     show_proc "pdb_help"
+}
+
+if {![string compare [interp slave] ""]} {
+	uplevel \#0 gimptcl_run 1
 }
