@@ -4,13 +4,13 @@
 # Jan Morén <jan.moren@lucs.lu.se>, 2003.
 # Tomas Ögren <stric@ing.umu.se>, 2001.
 #
-# $Id: sv.po,v 1.66 2004/09/05 01:27:37 neo Exp $
+# $Id: sv.po,v 1.67 2004/09/19 23:17:01 neo Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gimp-script-fu\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-09-05 02:42+0200\n"
+"POT-Creation-Date: 2004-09-19 21:05+0200\n"
 "PO-Revision-Date: 2004-01-24 21:05+0900\n"
 "Last-Translator: Jan Morén <jan.moren@lucs.lu.se>\n"
 "Language-Team: Swedish <sv@li.org>\n"
