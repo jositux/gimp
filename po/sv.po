@@ -4,14 +4,14 @@
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003.
 # Jan Morén <jan.moren@lucs.lu.se>, 2003.
 #
-# $Id: sv.po,v 1.219 2004/10/26 12:46:30 JanneM Exp $
+# $Id: sv.po,v 1.220 2004/10/26 12:49:47 JanneM Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: gimp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-10-26 21:47+0900\n"
-"PO-Revision-Date: 2004-10-26 21:50+0900\n"
+"POT-Creation-Date: 2004-10-26 21:50+0900\n"
+"PO-Revision-Date: 2004-10-26 21:51+0900\n"
 "Last-Translator: Jan Morén <jan.moren@lucs.lu.se>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -6934,8 +6934,8 @@ msgid ""
 "searching for brushes."
 msgstr ""
 "Denna mapp används för att spara användardefinierade penslar. GIMP "
-"kontrollerar denna mapp utöver systemets instalation av GIMP-penslar när den "
-"söker efter penslar."
+"kontrollerar denna mapp utöver systemets installation av GIMP-penslar när "
+"den söker efter penslar."
 
 #: app/dialogs/user-install-dialog.c:192
 msgid ""
