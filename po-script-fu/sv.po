@@ -3,7 +3,7 @@
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002.
 # Tomas Ögren <stric@ing.umu.se>, 2001.
 #
-# $Id: sv.po,v 1.32 2003/02/25 17:16:47 JanneM Exp $
+# $Id: sv.po,v 1.33 2003/03/03 02:51:23 stric Exp $
 #
 msgid ""
 msgstr ""
@@ -483,7 +483,7 @@ msgstr "Tjocklek"
 
 #: plug-ins/script-fu/scripts/add-bevel.scm.h:1
 msgid "<Image>/Script-Fu/Decor/Add Bevel..."
-msgstr "<Image>/Script-Fu/Animatörer/Lägg till avfasning..."
+msgstr "<Image>/Script-Fu/Dekor/Lägg till avfasning..."
 
 #: plug-ins/script-fu/scripts/add-bevel.scm.h:2
 #: plug-ins/script-fu/scripts/chip-away.scm.h:11
