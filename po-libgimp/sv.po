@@ -4,13 +4,13 @@
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003.
 # Jan Morén (jan.moren@lucs.lu.se> 2003.
 #
-# $Id: sv.po,v 1.64 2004/02/02 04:43:03 JanneM Exp $
+# $Id: sv.po,v 1.65 2004/02/04 02:53:05 neo Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: libgimp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-02-02 13:40+0900\n"
+"POT-Creation-Date: 2004-02-04 02:49+0100\n"
 "PO-Revision-Date: 2004-02-02 13:42+0900\n"
 "Last-Translator: Jan Morén <jan.moren@lucs.lu.se>\n"
 "Language-Team: Swedish <sv@li.org>\n"
