@@ -1,8 +1,9 @@
 # Swedish messages for GIMP Script-Fu.
 # Copyright (C) 2000, 2001 Free Software Foundation, Inc.
 # Christian Rose <menthos@menthos.com>, 2000, 2001.
+# Tomas Ögren <stric@ing.umu.se>, 2001
 #
-# $Id: sv.po,v 1.16 2001/10/10 12:10:33 menthos Exp $
+# $Id: sv.po,v 1.17 2001/10/27 03:15:09 stric Exp $
 #
 msgid ""
 msgstr ""
@@ -92,7 +93,7 @@ msgstr "Script-Fu-penselväljare"
 
 #: plug-ins/script-fu/script-fu-scripts.c:1484
 msgid "Reset to Defaults"
-msgstr "Återställ till satndardvärden"
+msgstr "Återställ till standardvärden"
 
 #: plug-ins/script-fu/script-fu-scripts.c:1512
 msgid "About"
