@@ -4,14 +4,14 @@
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002, 2003.
 # Jan Morén (jan.moren@lucs.lu.se> 2003.
 #
-# $Id: sv.po,v 1.80 2004/11/01 00:01:38 neo Exp $
+# $Id: sv.po,v 1.81 2004/11/02 03:34:16 JanneM Exp $
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: libgimp\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2004-10-31 23:17+0100\n"
-"PO-Revision-Date: 2004-10-16 00:43+0900\n"
+"POT-Creation-Date: 2004-11-02 12:32+0900\n"
+"PO-Revision-Date: 2004-11-02 12:45+0900\n"
 "Last-Translator: Jan Morén <jan.moren@lucs.lu.se>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -199,9 +199,8 @@ msgid "(Empty)"
 msgstr "(Tom)"
 
 #: libgimp/gimppalettemenu.c:91
-#, fuzzy
 msgid "Palette Selection"
-msgstr "Mönsterval"
+msgstr "Palettval"
 
 #: libgimp/gimppatternmenu.c:113
 msgid "Pattern Selection"
@@ -478,17 +477,14 @@ msgid "Select File"
 msgstr "Välj fil"
 
 #: libgimpwidgets/gimpmemsizeentry.c:232
-#, fuzzy
 msgid "Kilobytes"
 msgstr "kilobyte"
 
 #: libgimpwidgets/gimpmemsizeentry.c:233
-#, fuzzy
 msgid "Megabytes"
 msgstr "megabyte"
 
 #: libgimpwidgets/gimpmemsizeentry.c:234
-#, fuzzy
 msgid "Gigabytes"
 msgstr "gigabyte"
 
