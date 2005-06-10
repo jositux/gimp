@@ -3,7 +3,7 @@
 # Christian Rose <menthos@menthos.com>, 2002, 2003.
 # Jan Morén <jan.moren@lucs.lu.se>, 2004.
 #
-# $Id: sv.po,v 1.30 2005/05/14 16:45:50 neo Exp $
+# $Id: sv.po,v 1.1 2005/06/10 16:38:36 neo Exp $
 #
 msgid ""
 msgstr ""
