@@ -4,7 +4,7 @@
 # Christian Rose <menthos@menthos.com>, 2000, 2001, 2002.
 # Jan Morén <jan.moren@lucs.lu.se>, 2002, 2003.
 #
-# $Id: sv.po,v 1.139 2004/12/28 16:10:33 neo Exp $
+# $Id: sv.po,v 1.140 2005/08/21 20:27:58 jseidel Exp $
 #
 msgid ""
 msgstr ""
@@ -12695,7 +12695,7 @@ msgstr "Fel: XJT egenskapsfil \"%s\" är tom."
 #~ msgid "<Image>/Filters/Distorts/P_olar Coords..."
 #~ msgstr "<Image>/Filter/Störningar/_Polärkoordinater..."
 
-#~ msgid "write error occured"
+#~ msgid "write error occurred"
 #~ msgstr "ett skrivfel har uppstått"
 
 #~ msgid "_X-Offset:"
