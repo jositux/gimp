@@ -11,7 +11,7 @@ msgstr ""
 "Project-Id-Version: gimp-script-fu\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2005-03-18 16:36+0900\n"
-"PO-Revision-Date: 2005-03-18 16:36+0900\n"
+"PO-Revision-Date: 2007-04-10 10:59+0200\n"
 "Last-Translator: Jan Morén <jan.moren@lucs.lu.se>\n"
 "Language-Team: Swedish <sv@li.org>\n"
 "MIME-Version: 1.0\n"
@@ -1640,7 +1640,7 @@ msgstr "Horisontell"
 
 #: plug-ins/script-fu/scripts/guides-new-percent.scm.h:3
 msgid "New Guide (by _Percent)..."
-msgstr "<Image>/Image/Guider/Ny guide (i _procent)..."
+msgstr "Ny guide (i _procent)..."
 
 #: plug-ins/script-fu/scripts/guides-new-percent.scm.h:5
 #, no-c-format
